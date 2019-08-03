@@ -15,7 +15,7 @@ def link
 end
 
 def any_phase(phrase)
-  phrase = "Do A Barrel Roll!"
   puts phrase
 end
+any_phase("Do A Barrel Roll!")
   
